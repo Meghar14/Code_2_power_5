@@ -1,7 +1,7 @@
 // cerner_2^5_2020
 defmodule Hailstone do
   @moduledoc """
-    Elixir Program for cerner_2^5_2019
+    Elixir Program for cerner_2^5_2020
   """
   require Integer
 
